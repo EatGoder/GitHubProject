@@ -1,0 +1,4 @@
+I:\Project.API\Project.API.Data.Models\bin\Debug\Project.API.Data.Models.dll
+I:\Project.API\Project.API.Data.Models\bin\Debug\Project.API.Data.Models.pdb
+I:\Project.API\Project.API.Data.Models\obj\Debug\Project.API.Data.Models.dll
+I:\Project.API\Project.API.Data.Models\obj\Debug\Project.API.Data.Models.pdb

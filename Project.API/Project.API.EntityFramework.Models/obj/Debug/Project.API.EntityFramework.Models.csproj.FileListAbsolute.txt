@@ -1,0 +1,5 @@
+I:\Project.API\Project.API.EntityFramework.Models\bin\Debug\Project.API.EntityFramework.Models.dll
+I:\Project.API\Project.API.EntityFramework.Models\bin\Debug\Project.API.EntityFramework.Models.pdb
+I:\Project.API\Project.API.EntityFramework.Models\obj\Debug\Project.API.EntityFramework.Models.csprojResolveAssemblyReference.cache
+I:\Project.API\Project.API.EntityFramework.Models\obj\Debug\Project.API.EntityFramework.Models.dll
+I:\Project.API\Project.API.EntityFramework.Models\obj\Debug\Project.API.EntityFramework.Models.pdb

@@ -1,0 +1,10 @@
+I:\Project.API\Project.API.EntityFramework.Mappings\bin\Debug\Project.API.EntityFramework.Mappings.dll
+I:\Project.API\Project.API.EntityFramework.Mappings\bin\Debug\Project.API.EntityFramework.Mappings.pdb
+I:\Project.API\Project.API.EntityFramework.Mappings\obj\Debug\Project.API.EntityFramework.Mappings.csprojResolveAssemblyReference.cache
+I:\Project.API\Project.API.EntityFramework.Mappings\obj\Debug\Project.API.EntityFramework.Mappings.dll
+I:\Project.API\Project.API.EntityFramework.Mappings\obj\Debug\Project.API.EntityFramework.Mappings.pdb
+I:\Project.API\Project.API.EntityFramework.Mappings\bin\Debug\Project.API.EntityFramework.Mappings.dll.config
+I:\Project.API\Project.API.EntityFramework.Mappings\bin\Debug\EntityFramework.dll
+I:\Project.API\Project.API.EntityFramework.Mappings\bin\Debug\EntityFramework.SqlServer.dll
+I:\Project.API\Project.API.EntityFramework.Mappings\bin\Debug\EntityFramework.xml
+I:\Project.API\Project.API.EntityFramework.Mappings\bin\Debug\EntityFramework.SqlServer.xml

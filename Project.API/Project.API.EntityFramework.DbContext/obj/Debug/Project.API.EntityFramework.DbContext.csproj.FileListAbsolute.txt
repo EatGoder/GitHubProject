@@ -1,0 +1,10 @@
+I:\Project.API\Project.API.EntityFramework.DbContext\bin\Debug\Project.API.EntityFramework.DbContext.dll
+I:\Project.API\Project.API.EntityFramework.DbContext\bin\Debug\Project.API.EntityFramework.DbContext.pdb
+I:\Project.API\Project.API.EntityFramework.DbContext\obj\Debug\Project.API.EntityFramework.DbContext.csprojResolveAssemblyReference.cache
+I:\Project.API\Project.API.EntityFramework.DbContext\obj\Debug\Project.API.EntityFramework.DbContext.dll
+I:\Project.API\Project.API.EntityFramework.DbContext\obj\Debug\Project.API.EntityFramework.DbContext.pdb
+I:\Project.API\Project.API.EntityFramework.DbContext\bin\Debug\Project.API.EntityFramework.DbContext.dll.config
+I:\Project.API\Project.API.EntityFramework.DbContext\bin\Debug\EntityFramework.dll
+I:\Project.API\Project.API.EntityFramework.DbContext\bin\Debug\EntityFramework.SqlServer.dll
+I:\Project.API\Project.API.EntityFramework.DbContext\bin\Debug\EntityFramework.xml
+I:\Project.API\Project.API.EntityFramework.DbContext\bin\Debug\EntityFramework.SqlServer.xml

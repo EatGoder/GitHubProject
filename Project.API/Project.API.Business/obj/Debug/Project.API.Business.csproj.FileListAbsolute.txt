@@ -1,0 +1,4 @@
+I:\Project.API\Project.API.Business\bin\Debug\Project.API.Business.dll
+I:\Project.API\Project.API.Business\bin\Debug\Project.API.Business.pdb
+I:\Project.API\Project.API.Business\obj\Debug\Project.API.Business.dll
+I:\Project.API\Project.API.Business\obj\Debug\Project.API.Business.pdb

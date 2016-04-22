@@ -1,0 +1,4 @@
+I:\Project.API\Project.API.Common\bin\Debug\Project.API.Common.dll
+I:\Project.API\Project.API.Common\bin\Debug\Project.API.Common.pdb
+I:\Project.API\Project.API.Common\obj\Debug\Project.API.Common.dll
+I:\Project.API\Project.API.Common\obj\Debug\Project.API.Common.pdb

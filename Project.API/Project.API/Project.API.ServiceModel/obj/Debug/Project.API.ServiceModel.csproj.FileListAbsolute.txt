@@ -1,0 +1,5 @@
+I:\Project.API\Project.API\Project.API.ServiceModel\bin\Debug\Project.API.ServiceModel.dll
+I:\Project.API\Project.API\Project.API.ServiceModel\bin\Debug\Project.API.ServiceModel.pdb
+I:\Project.API\Project.API\Project.API.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+I:\Project.API\Project.API\Project.API.ServiceModel\obj\Debug\Project.API.ServiceModel.dll
+I:\Project.API\Project.API\Project.API.ServiceModel\obj\Debug\Project.API.ServiceModel.pdb
