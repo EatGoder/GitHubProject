@@ -8,3 +8,15 @@ I:\Project.API\Project.API.EntityFramework.Mappings\bin\Debug\EntityFramework.dl
 I:\Project.API\Project.API.EntityFramework.Mappings\bin\Debug\EntityFramework.SqlServer.dll
 I:\Project.API\Project.API.EntityFramework.Mappings\bin\Debug\EntityFramework.xml
 I:\Project.API\Project.API.EntityFramework.Mappings\bin\Debug\EntityFramework.SqlServer.xml
+I:\GitHubProject\Project.API\Project.API.EntityFramework.Mappings\bin\Debug\Project.API.EntityFramework.Mappings.dll.config
+I:\GitHubProject\Project.API\Project.API.EntityFramework.Mappings\bin\Debug\Project.API.EntityFramework.Mappings.dll
+I:\GitHubProject\Project.API\Project.API.EntityFramework.Mappings\bin\Debug\Project.API.EntityFramework.Mappings.pdb
+I:\GitHubProject\Project.API\Project.API.EntityFramework.Mappings\bin\Debug\EntityFramework.dll
+I:\GitHubProject\Project.API\Project.API.EntityFramework.Mappings\bin\Debug\EntityFramework.SqlServer.dll
+I:\GitHubProject\Project.API\Project.API.EntityFramework.Mappings\bin\Debug\Project.API.EntityFramework.Models.dll
+I:\GitHubProject\Project.API\Project.API.EntityFramework.Mappings\bin\Debug\Project.API.EntityFramework.Models.pdb
+I:\GitHubProject\Project.API\Project.API.EntityFramework.Mappings\bin\Debug\EntityFramework.xml
+I:\GitHubProject\Project.API\Project.API.EntityFramework.Mappings\bin\Debug\EntityFramework.SqlServer.xml
+I:\GitHubProject\Project.API\Project.API.EntityFramework.Mappings\obj\Debug\Project.API.EntityFramework.Mappings.csprojResolveAssemblyReference.cache
+I:\GitHubProject\Project.API\Project.API.EntityFramework.Mappings\obj\Debug\Project.API.EntityFramework.Mappings.dll
+I:\GitHubProject\Project.API\Project.API.EntityFramework.Mappings\obj\Debug\Project.API.EntityFramework.Mappings.pdb

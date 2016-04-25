@@ -3,3 +3,17 @@ I:\Project.API\Project.API\Project.API.ServiceModel\bin\Debug\Project.API.Servic
 I:\Project.API\Project.API\Project.API.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
 I:\Project.API\Project.API\Project.API.ServiceModel\obj\Debug\Project.API.ServiceModel.dll
 I:\Project.API\Project.API\Project.API.ServiceModel\obj\Debug\Project.API.ServiceModel.pdb
+I:\GitHubProject\Project.API\Project.API\Project.API.ServiceModel\bin\Debug\Project.API.ServiceModel.dll.config
+I:\GitHubProject\Project.API\Project.API\Project.API.ServiceModel\bin\Debug\Project.API.ServiceModel.dll
+I:\GitHubProject\Project.API\Project.API\Project.API.ServiceModel\bin\Debug\Project.API.ServiceModel.pdb
+I:\GitHubProject\Project.API\Project.API\Project.API.ServiceModel\bin\Debug\EntityFramework.dll
+I:\GitHubProject\Project.API\Project.API\Project.API.ServiceModel\bin\Debug\EntityFramework.SqlServer.dll
+I:\GitHubProject\Project.API\Project.API\Project.API.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+I:\GitHubProject\Project.API\Project.API\Project.API.ServiceModel\bin\Debug\System.Data.SQLite.dll
+I:\GitHubProject\Project.API\Project.API\Project.API.ServiceModel\bin\Debug\System.Data.SQLite.EF6.dll
+I:\GitHubProject\Project.API\Project.API\Project.API.ServiceModel\bin\Debug\System.Data.SQLite.Linq.dll
+I:\GitHubProject\Project.API\Project.API\Project.API.ServiceModel\bin\Debug\EntityFramework.xml
+I:\GitHubProject\Project.API\Project.API\Project.API.ServiceModel\bin\Debug\EntityFramework.SqlServer.xml
+I:\GitHubProject\Project.API\Project.API\Project.API.ServiceModel\bin\Debug\System.Data.SQLite.xml
+I:\GitHubProject\Project.API\Project.API\Project.API.ServiceModel\obj\Debug\Project.API.ServiceModel.dll
+I:\GitHubProject\Project.API\Project.API\Project.API.ServiceModel\obj\Debug\Project.API.ServiceModel.pdb

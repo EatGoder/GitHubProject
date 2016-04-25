@@ -11,7 +11,7 @@ namespace Project.API
         /// Base constructor requires a name and assembly to locate web service classes. 
         /// </summary>
         public AppHost()
-            : base("Project.API", typeof(MyServices).Assembly)
+            : base("Project.API", typeof(ServiceStackServices).Assembly)
         {
 
         }
