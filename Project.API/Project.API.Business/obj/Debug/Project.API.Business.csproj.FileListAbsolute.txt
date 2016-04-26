@@ -20,3 +20,7 @@ I:\GitHubProject\Project.API\Project.API.Business\bin\Debug\Project.API.ServiceM
 I:\GitHubProject\Project.API\Project.API.Business\bin\Debug\Project.API.EntityFramework.DbContext.pdb
 I:\GitHubProject\Project.API\Project.API.Business\bin\Debug\EntityFramework.xml
 I:\GitHubProject\Project.API\Project.API.Business\bin\Debug\Project.API.EntityFramework.Mappings.pdb
+I:\GitHubProject\Project.API\Project.API.Business\bin\Debug\ServiceStack.dll
+I:\GitHubProject\Project.API\Project.API.Business\bin\Debug\ServiceStack.Text.dll
+I:\GitHubProject\Project.API\Project.API.Business\bin\Debug\ServiceStack.xml
+I:\GitHubProject\Project.API\Project.API.Business\bin\Debug\ServiceStack.Text.xml
