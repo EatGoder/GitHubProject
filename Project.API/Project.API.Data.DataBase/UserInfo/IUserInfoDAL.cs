@@ -10,5 +10,6 @@ namespace Project.API.Data.DataBase.UserInfo
     public interface IUserInfoDAL
     {
         UserInfoResponseModel UserLogin(UserInfoRequestModel request);
+        UserInfoResponseModel UserRegister(UserInfoRequestModel request);
     }
 }

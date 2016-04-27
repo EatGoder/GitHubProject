@@ -10,6 +10,8 @@ namespace Project.API.Business.UserInfo
 {
     public interface IUserInfoLoginBusiness
     {
-        UserLoginResponse UserLogin(UserLoginRequest request);
+        UserInfoResponse UserLogin(UserLoginRequest request);
+
+        UserInfoResponse UserRegister(UserRegisterRequest request);
     }
 }

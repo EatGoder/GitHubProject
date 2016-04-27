@@ -10,19 +10,19 @@ using System.Threading.Tasks;
 
 namespace Project.API.ServiceInterface.UserInfo
 {
-    public class UserLoginServices : Service
+    public class UserRegisterServices : Service
     {
         private readonly IUserInfoLoginBusiness _userBusiness;
 
         [ImportingConstructor]
-        public UserLoginServices(IUserInfoLoginBusiness userBusiness)
+        public UserRegisterServices(IUserInfoLoginBusiness userBusiness)
         {
             _userBusiness = userBusiness;
         }
-        public object Any(UserLoginRequest request)
+        public object Any(UserRegisterRequest request)
         {
             UserInfoResponse response = new UserInfoResponse();
-            response = _userBusiness.UserLogin(request);
+            response = _userBusiness.UserRegister(request);
             return response;
         }
     }

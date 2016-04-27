@@ -21,13 +21,21 @@ namespace Project.API.Business.UserInfo
         {
             _userInfoDal = userInfoDal;
         }
-        public UserLoginResponse UserLogin(UserLoginRequest request)
+        public UserInfoResponse UserLogin(UserLoginRequest request)
         {
-            UserLoginResponse response = new UserLoginResponse();
-            UserInfoRequestModel userInfoModel = new UserInfoRequestModel();
-            UserInfoResponseModel responseModel = new UserInfoResponseModel();
-            userInfoModel = AutoMappingUtils.ConvertTo<UserInfoRequestModel>(request);
-            response = AutoMappingUtils.ConvertTo<UserLoginResponse>(_userInfoDal.UserLogin(userInfoModel));
+            UserInfoRequestModel userInfoModel = AutoMappingUtils.ConvertTo<UserInfoRequestModel>(request);
+            UserInfoResponse response = AutoMappingUtils.ConvertTo<UserInfoResponse>(_userInfoDal.UserLogin(userInfoModel));
+
+            return response;
+        }
+
+
+        public UserInfoResponse UserRegister(UserRegisterRequest request)
+        {
+            string userNo = "E" + DateTime.Now.ToString("yyyyMMddHHmmss");
+            UserInfoRequestModel userInfoModel = AutoMappingUtils.ConvertTo<UserInfoRequestModel>(request);
+            userInfoModel.UserNO = userNo;
+            UserInfoResponse response = AutoMappingUtils.ConvertTo<UserInfoResponse>(_userInfoDal.UserRegister(userInfoModel));
 
             return response;
         }
