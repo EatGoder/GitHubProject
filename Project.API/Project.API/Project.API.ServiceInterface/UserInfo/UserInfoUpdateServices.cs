@@ -10,20 +10,18 @@ using System.Threading.Tasks;
 
 namespace Project.API.ServiceInterface.UserInfo
 {
-    public class UserRegisterServices : Service
+    public class UserInfoUpdateServices: Service
     {
         private readonly IUserInfoBusiness _userBusiness;
 
         [ImportingConstructor]
-        public UserRegisterServices(IUserInfoBusiness userBusiness)
+        public UserInfoUpdateServices(IUserInfoBusiness userBusiness)
         {
             _userBusiness = userBusiness;
         }
-        public object Any(UserRegisterRequest request)
+        public object Any(UserInfoUpdateRequest request)
         {
-            UserInfoResponse response = new UserInfoResponse();
-            response = _userBusiness.UserRegister(request);
-            return response;
+            return _userBusiness.UserInfoUpdate(request);
         }
     }
 }

@@ -25,6 +25,17 @@ namespace Project.API.ServiceModel.UserInfo
 
         public string UserEmail { get; set; }
     }
+
+    public class UserInfoUpdateRequest : IReturn<UserInfoResponse>
+    {
+        public string UserName { get; set; }
+
+        public string PassWord { get; set; }
+
+        public string NewPassWord { get; set; }
+
+    }
+
     public class UserInfoResponse
     {
         public Int64 UID { get; set; }

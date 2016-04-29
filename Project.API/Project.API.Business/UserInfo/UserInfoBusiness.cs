@@ -11,13 +11,13 @@ using System.Threading.Tasks;
 
 namespace Project.API.Business.UserInfo
 {
-    [Export(typeof(IUserInfoLoginBusiness))]       
-    public class UserInfoLoginBusiness : IUserInfoLoginBusiness
+    [Export(typeof(IUserInfoBusiness))]       
+    public class UserInfoBusiness : IUserInfoBusiness
     {
         private readonly IUserInfoDAL _userInfoDal;
 
         [ImportingConstructor]
-        public UserInfoLoginBusiness(IUserInfoDAL userInfoDal)
+        public UserInfoBusiness(IUserInfoDAL userInfoDal)
         {
             _userInfoDal = userInfoDal;
         }
@@ -38,6 +38,30 @@ namespace Project.API.Business.UserInfo
             UserInfoResponse response = AutoMappingUtils.ConvertTo<UserInfoResponse>(_userInfoDal.UserRegister(userInfoModel));
 
             return response;
+        }
+
+
+        public int UserInfoUpdate(UserInfoUpdateRequest request)
+        {
+            UserLoginRequest userInfoReq = new UserLoginRequest();
+            userInfoReq.UserName = request.UserName;
+            userInfoReq.PassWord = request.PassWord;
+
+            UserInfoResponse userInfoRes = UserLogin(userInfoReq);
+            UserInfoRequestModel userInfoModel = AutoMappingUtils.ConvertTo<UserInfoRequestModel>(request);
+            if (userInfoRes != null)
+            {
+                userInfoModel.UID = userInfoRes.UID;
+                userInfoModel.UserNO = userInfoRes.UserNO;
+                userInfoModel.UserName = userInfoRes.UserName;
+                userInfoModel.UserEmail = userInfoRes.UserEmail;
+                userInfoModel.PassWord = request.NewPassWord;
+                
+                return _userInfoDal.UserInfoUpdate(userInfoModel);
+            }
+            else {
+                return 0;
+            }
         }
     }
 }

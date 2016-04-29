@@ -12,10 +12,10 @@ namespace Project.API.ServiceInterface.UserInfo
 {
     public class UserLoginServices : Service
     {
-        private readonly IUserInfoLoginBusiness _userBusiness;
+        private readonly IUserInfoBusiness _userBusiness;
 
         [ImportingConstructor]
-        public UserLoginServices(IUserInfoLoginBusiness userBusiness)
+        public UserLoginServices(IUserInfoBusiness userBusiness)
         {
             _userBusiness = userBusiness;
         }

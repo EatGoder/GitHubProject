@@ -8,11 +8,14 @@ namespace Project.API.EntityFramework.Models
 {
     public class UserInfoRequestModel
     {
+        public Int64 UID { get; set; }
         public string UserName { get; set; }
 
         public string UserNO { get; set; }
 
         public string PassWord { get; set; }
+
+        public string NewPassWord { get; set; }
 
         public string UserEmail { get; set; }
     }

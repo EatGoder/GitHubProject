@@ -75,6 +75,7 @@
   <ItemGroup>
     <Compile Include="ServiceStackServices.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="UserInfo\UserInfoUpdateServices.cs" />
     <Compile Include="UserInfo\UserLoginServices.cs" />
     <Compile Include="UserInfo\UserRegisterServices.cs" />
   </ItemGroup>

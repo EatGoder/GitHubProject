@@ -11,5 +11,7 @@ namespace Project.API.Data.DataBase.UserInfo
     {
         UserInfoResponseModel UserLogin(UserInfoRequestModel request);
         UserInfoResponseModel UserRegister(UserInfoRequestModel request);
+
+        int UserInfoUpdate(UserInfoRequestModel request);
     }
 }

@@ -8,10 +8,12 @@ using System.Threading.Tasks;
 
 namespace Project.API.Business.UserInfo
 {
-    public interface IUserInfoLoginBusiness
+    public interface IUserInfoBusiness
     {
         UserInfoResponse UserLogin(UserLoginRequest request);
 
         UserInfoResponse UserRegister(UserRegisterRequest request);
+
+        int UserInfoUpdate(UserInfoUpdateRequest request);
     }
 }
